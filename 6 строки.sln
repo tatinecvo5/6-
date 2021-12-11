@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "длинное слово", "6 строки\длинное слово.csproj", "{21C56449-0586-4C1E-AF98-69C8CC76E9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "палиндром", "ConsoleApp1\палиндром.csproj", "{68B15F8C-1B27-4DCC-8A94-0A9179F3FCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C56449-0586-4C1E-AF98-69C8CC76E9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C56449-0586-4C1E-AF98-69C8CC76E9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C56449-0586-4C1E-AF98-69C8CC76E9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C56449-0586-4C1E-AF98-69C8CC76E9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B15F8C-1B27-4DCC-8A94-0A9179F3FCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B15F8C-1B27-4DCC-8A94-0A9179F3FCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B15F8C-1B27-4DCC-8A94-0A9179F3FCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B15F8C-1B27-4DCC-8A94-0A9179F3FCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E150DB30-5139-48F1-AD1A-8A87C6571DDA}
+	EndGlobalSection
+EndGlobal
